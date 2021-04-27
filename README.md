@@ -2,11 +2,11 @@
 1. Linear Regression
 Perform Linear Regression on the given dataset. Also perform K-Fold cross-validation in this exercise.
 Analysis to be included in your report:
-(a) Choose an appropriate value of K and justify it in your report along with the
+(a). Choose an appropriate value of K and justify it in your report along with the
 preprocessing strategy.
-(b) Include plots between training loss v/s iterations and validation loss v/s itera-
+(b). Include plots between training loss v/s iterations and validation loss v/s itera-
 tions.
-(c) Implement gradient descent using two losses - RMSE loss and MAE loss. Include
+(c). Implement gradient descent using two losses - RMSE loss and MAE loss. Include
 the best RMSE and MAE value achieved in your report. 
 
 
